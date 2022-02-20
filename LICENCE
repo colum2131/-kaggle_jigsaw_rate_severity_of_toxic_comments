@@ -15,11 +15,10 @@ I used Kaggle Notebook.
 
 # Model download
 
-* I used 6 pretrained models that are publicly available in [Hugging Face](https://huggingface.co/).
+* I used 5 pretrained models that are publicly available in [Hugging Face](https://huggingface.co/).
 	* roberta-base: https://huggingface.co/roberta-base
 	* roberta-large: https://huggingface.co/roberta-large
 	* unitary/toxic-bert https://huggingface.co/unitary/toxic-bert
-	* microsoft/deberta-v3-base https://huggingface.co/microsoft/deberta-v3-base
 	* unitary/unbiased-toxic-roberta https://huggingface.co/unitary/unbiased-toxic-roberta
 	* unitary/multilingual-toxic-xlm-roberta https://huggingface.co/unitary/multilingual-toxic-xlm-roberta
 
