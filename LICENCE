@@ -1,27 +1,9 @@
-# Kaggle Jigsaw Rate Severity of Toxic Comments 7th place solution (Naoism part)
+MIT License
 
-* This is the repository of [colum2131](https://www.kaggle.com/columbia2131) part in the 7th place solution of [Jigsaw Rate Severity of Toxic Comments](https://www.kaggle.com/c/jigsaw-toxic-severity-rating/).
-* The discription of this solution is available [here](https://www.kaggle.com/c/jigsaw-toxic-severity-rating/discussion/306366).
-* The inference notebook in the competition is available [here](https://www.kaggle.com/columbia2131/jigsaw-team-ensemble-006-fix/notebook).
+Copyright 2022 Kohei Iwamasa
 
-# Hardware
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-I used Kaggle Notebook.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-# Data
-
-* Jigsaw Rate Severity of Toxic Comments
-	* Please download data to ./input from https://www.kaggle.com/c/jigsaw-toxic-severity-rating/data and unzip it.
-
-# Model download
-
-* I used 5 pretrained models that are publicly available in [Hugging Face](https://huggingface.co/).
-	* roberta-base: https://huggingface.co/roberta-base
-	* roberta-large: https://huggingface.co/roberta-large
-	* unitary/toxic-bert https://huggingface.co/unitary/toxic-bert
-	* unitary/unbiased-toxic-roberta https://huggingface.co/unitary/unbiased-toxic-roberta
-	* unitary/multilingual-toxic-xlm-roberta https://huggingface.co/unitary/multilingual-toxic-xlm-roberta
-
-# Train
-
-* All model were trained on Kaggle Notebook. 
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
